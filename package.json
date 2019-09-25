@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-elk-apm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BboyKeen/nuxt-elk-apm.git",
+  "author": "Kévin Liagre <k.liagre@yogosha.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@elastic/apm-rum": "^4.4.4",
+    "elastic-apm-node": "^2.17.0"
+  }
+}
